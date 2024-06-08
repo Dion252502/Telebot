@@ -17,11 +17,11 @@ global.APIKeys = {
 //language 
 global.language = indonesia //change indonesia to english if you don't understand the language used by the bot
 
-global.BOT_TOKEN = "7018421028:AAHraPYRdxSYuJuousZ6qp03TSMWCwhs_kg" //create bot here https://t.me/BotFather and get the bot token
-global.BOT_NAME = "Oliver_18" //your bot name
+global.BOT_TOKEN = "7275054882:AAHP21i7tzjRzxgL3fgjlfQpbSgDvWHyzAU//create bot here https://t.me/BotFather and get the bot token
+global.BOT_NAME = "@Arthur_riandibot" //your bot name
 global.OWNER_NAME = "ArthurRiandi" //your name
 global.OWNER_NUMBER = "6289526896346" //your telegram number
-global.OWNER = ["@Nidji18", "https://t.me/Nidji18"] // pastikan username sudah sesuai agar fitur khusus owner bisa di pakai
+global.OWNER = ["@Nidji_18", "https://t.me/Nidji_18"] // pastikan username sudah sesuai agar fitur khusus owner bisa di pakai
 global.THUMBNAIL = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.DONASI = "./image/donasi.jpg" // foto donasi di folder image
 global.lang = language //don't change
